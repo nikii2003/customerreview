@@ -1,0 +1,15 @@
+.customer-review-heading{
+    text-align: center;
+}
+.input-box-container{
+display: flex;
+flex-direction: row;
+  justify-content: space-evenly;
+
+}
+.user-review-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

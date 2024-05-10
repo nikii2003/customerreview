@@ -1,0 +1,28 @@
+
+.review-card {
+    height: 250px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    
+  }
+  
+  .card-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .client-name {
+    margin-top: 0;
+  }
+  
+  .both-of-two {
+    display: flex;
+    align-items: center;
+  }
+  
