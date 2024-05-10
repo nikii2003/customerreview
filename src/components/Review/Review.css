@@ -1,15 +1,15 @@
-
 .review-card {
-    height: 250px;
-    width: 250px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 20px;
-    margin-bottom: 20px;
-    background-color: #f9f9f9;
-    
-  }
-  
+  height: 250px;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  overflow: hidden;
+  position: relative; /* Position for the absolute button */
+  text-align: justify;
+}
   .card-image {
     width: 80px;
     height: 80px;
